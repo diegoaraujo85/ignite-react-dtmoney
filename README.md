@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [About](#about)
+- [Techs](#techs)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
@@ -10,6 +11,13 @@
 ## About <a name = "about"></a>
 
 Projeto de controle financeiro, com entradas de recursos e saídas de gastos.
+
+## Techs <a name = "techs"></a>
+- [Create React App](https://create-react-app.dev/)
+- Styled Components
+- [MirageJS](https://miragejs.com/) Fake Backend Engine
+- Axios
+- [React Modal](https://github.com/reactjs/react-modal)
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -22,7 +30,7 @@ As dependencias já estão no arquivo package.json.
 Para instalar, basta acessar a pasta do projeto e abrir o promp de comandos e digitar:
 
 ```
-yarn install
+$ yarn install
 ```
 
 ### Installing
@@ -30,19 +38,19 @@ yarn install
 Faça um clone do projeto
 
 ```
-git clone [url do projeto]
+$ git clone [url do projeto]
 ```
 
 entre na pasta
 
 ```
-cd [nome da pasta]
+$ cd [nome da pasta]
 ```
 
 instale as dependencias
 
 ```
-yarn install
+$ yarn install
 ```
 
 
